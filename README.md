@@ -1,4 +1,4 @@
-### Hello! I'm Pri Rossetto :)
+### Hello! I'm Pri Rossetto 😎
 
 
 - 🌱 I’m currently learning programming language Web Full Stack
