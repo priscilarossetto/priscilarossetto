@@ -1,8 +1,8 @@
-### Hello! I'm Pri Rossetto 😎
+### Olá! Eu sou a Pri Rossetto 😎
 
 
-- 🌱 I’m currently learning programming language Web Full Stack
-- 😄 Pronouns: She / Her
+- 🌱 Atualmente, estou aprendendo linguagem de programação Web Full Stack
+- 😄 Pronomes: ela / dela
 
  <div>
   <a href="https://github.com/priscilarossetto">
