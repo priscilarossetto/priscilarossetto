@@ -1,8 +1,9 @@
-### Olá! Eu sou a Pri Rossetto 😎
+### Olá! Eu sou a Pri Rossetto! 🌟
 
 
-- 🌱 Atualmente, estou aprendendo linguagem de programação Web Full Stack
-- 😄 Pronomes: ela / dela
+- 👩‍💻 Aluna do bootcamp formação em Desenvolvimento Web Full-Stack da Resilia Educação
+- 🌱 Estou estudando e aprendendo Node.js
+- 👩 Pronomes: ela / dela
 
  <div>
   <a href="https://github.com/priscilarossetto">
