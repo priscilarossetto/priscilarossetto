@@ -1,4 +1,4 @@
-### Olá! Eu sou a Pri Rossetto! 🌟
+### Olá, 🌎! Eu sou a Pri Rossetto! ✨
 
 
 - 👩‍💻 Aluna do bootcamp formação em Desenvolvimento Web Full-Stack da Resilia Educação
