@@ -2,7 +2,11 @@
 
 
 - 👩‍💻 Fui Aluna da T10, do bootcamp com formação em Desenvolvimento Web Full-Stack na Resilia Educação.
-- 🌱 Estou estudando e aprendendo stack JavaScript voltado para o back-end.
+
+- 🌱 Estou aprendendo Java.
+
+- 💞 AMO games e usar emoji 🥰!
+
 - 👩 Pronomes: ela / dela
 
  <div>
